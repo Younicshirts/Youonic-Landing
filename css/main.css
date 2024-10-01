@@ -7732,6 +7732,7 @@ footer p {
   background-color: #fff;
   position: absolute;
   width: 20%;
+  transition: width 0.5s linear;
 }
 
 @keyframes beat {
